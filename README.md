@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4500ff&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4500ff&section=header"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marqueesdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -134,4 +134,4 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4500ff&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4500ff&section=footer"/>
