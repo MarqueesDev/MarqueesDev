@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=700070&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9745F5&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4500FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+Meu+nome+é+Alan;Eu+tenho+23+anos;Eu+sou+de+Brasília-DF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+Meu+nome+é+Alan;Eu+tenho+23+anos;Eu+sou+de+Brasília-DF)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marqueesdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -136,4 +136,4 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=700070&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9745F5&section=footer"/>
