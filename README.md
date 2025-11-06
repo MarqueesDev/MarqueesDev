@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?MarqueesDev&color=green&style=for-the-badge)
+  [![Profile views](https://komarev.com/ghpvc/?username=MarqueesDev&color=blueviolet&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 </div>
 
 ###
