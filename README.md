@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-  ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=MarqueesDev&left_color=blueviolet&right_color=blueviolet)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=MarqueesDev&left_color=blueviolet&right_color=blueviolet" alt="Visitantes"/>
 </div>
 
 ###
