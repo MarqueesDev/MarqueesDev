@@ -129,7 +129,7 @@
 
 <div align="center">
   <a href="https://hits.sh/github.com/MarqueesDev/">
-    <img src="https://hits.sh/github.com/MarqueesDev.svg?color=blueviolet&style=for-the-badge" alt="Visualizações do perfil"/>
+    <img src="https://hits.sh/github.com/MarqueesDev.svg?label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a>
 </div>
 
