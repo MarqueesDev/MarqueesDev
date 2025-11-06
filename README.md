@@ -128,9 +128,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  </a>
+  [![Profile Views](https://komarev.com/ghpvc/?username=AlanMarques&color=blueviolet&style=for-the-badge)](https://github.com/AlanMarques)
 </div>
 
 ###
