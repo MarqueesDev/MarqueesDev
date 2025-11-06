@@ -127,9 +127,11 @@
 
 ###
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</a>
+<div align="center">
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
 
 ###
 
