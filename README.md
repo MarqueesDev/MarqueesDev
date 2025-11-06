@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MarqueesDev&left_color=blueviolet&right_color=blueviolet" alt="Visitantes"/>
+  <img src="https://profile-counter.glitch.me/MarqueesDev/count.svg" alt="Contador de Visitantes"/>
 </div>
 
 ###
