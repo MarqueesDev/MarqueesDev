@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?MarqueesDev)
+  ![](https://komarev.com/ghpvc/?MarqueesDev&color=green&style=for-the-badge)
 </div>
 
 ###
