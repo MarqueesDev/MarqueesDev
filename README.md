@@ -128,7 +128,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/endpoint?url=https://hits.sh/github.com/MarqueesDev/MarqueesDev.json&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <a href="https://hits.sh/github.com/MarqueesDev/">
+    <img src="https://hits.sh/github.com/MarqueesDev.svg?color=blueviolet&style=for-the-badge" alt="Visualizações do perfil"/>
+  </a>
 </div>
 
 ###
