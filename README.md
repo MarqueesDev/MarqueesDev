@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=MarqueesDev&color=blueviolet&style=for-the-badge)](https://github.com/MarqueesDev)
+  ![](https://komarev.com/ghpvc/?MarqueesDev)
 </div>
 
 ###
