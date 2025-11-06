@@ -128,7 +128,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MarqueesDev/count.svg" alt="Contador de Visitantes"/>
+  <a href="https://github.com/MarqueesDev">
+    <img src="https://hits.dwyl.com/MarqueesDev/MarqueesDev.svg?style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  </a>
 </div>
 
 ###
