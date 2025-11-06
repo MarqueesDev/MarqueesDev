@@ -127,9 +127,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Marqueesdev/count.svg?"  />
-</div>
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</a>
 
 ###
 
