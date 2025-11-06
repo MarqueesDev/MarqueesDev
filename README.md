@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-  [![Profile views](https://komarev.com/ghpvc/?username=MarqueesDev&color=blueviolet&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+  ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=MarqueesDev&left_color=blueviolet&right_color=blueviolet)
 </div>
 
 ###
